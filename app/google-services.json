@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936319586024",
+    "firebase_url": "https://travelmantics-84525.firebaseio.com",
+    "project_id": "travelmantics-84525",
+    "storage_bucket": "travelmantics-84525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936319586024:android:b4470d06b32c6715",
+        "android_client_info": {
+          "package_name": "com.example.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936319586024-03v7ht7ectr6sojfci0s6i23u2p789cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmantics",
+            "certificate_hash": "0adae2551a1cb357e2ce2cb549a106ebc7be5a80"
+          }
+        },
+        {
+          "client_id": "936319586024-munoe1esjs9vs2fcltt0le0entv03nqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasFLG1GW1UEDAIqycW7-IJRTo-yRSJ9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936319586024-munoe1esjs9vs2fcltt0le0entv03nqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
